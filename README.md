@@ -13,4 +13,4 @@ Para isso, pensamos em criar uma experiência em que os anunciantes fossem incen
 ## Documentação
 Para saber mais sobre o projeto, pode acessa o projeto a partir do link a baixo
 
-[![Clique aqui](https://www.iconpacks.net/icons/2/free-pdf-download-icon-2617-thumb.png)](http://google.com.au/)
+[![Clique aqui](https://www.iconpacks.net/icons/2/free-pdf-download-icon-2617-thumb.png)](ProjetoA3.pdf)
