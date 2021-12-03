@@ -5,7 +5,9 @@
 
 ## História
 O projeto nasceu na Univerisdade São Judas, para Expo São Judas 2021, um evento onde os estudantes apresentão trabalhos desenvolvidos ao longo do semestre.
+
 A ideia é foi criar um site onde usuarios podessem ter os melhores anúncios de carros.
+
 Para isso, pensamos em criar uma experiência em que os anunciantes fossem incentivados criarem os melhores anúncios, principalmente no que se diz respeito as imagens dos carros anunciados, usando uma IA de analise de imagem.
 
 ## Documentação
